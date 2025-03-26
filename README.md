@@ -1,4 +1,4 @@
-## Hi there 👋
+## Too lazy to write 👋
 
 <!--
 **gianghitran/gianghitran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
