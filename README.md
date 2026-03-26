@@ -9,7 +9,7 @@
 ---
 Honor Program student majoring in Information Security at the University of Information Technology, VNU-HCM. 
 
-Passionate about Machine Learning applications in Cybersecurity, Machine Learning, Adversarial Machine Learning, Malware Analysis and Digital Forensics. Actively participating in scientific research and community development projects.🔥
+Passionate about Machine Learning applications in Cybersecurity, Adversarial Machine Learning, Malware Analysis, Digital Forensics and more. Actively participating in scientific research and community development projects.🔥
 
 ---
 
