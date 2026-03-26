@@ -1,16 +1,17 @@
-## Too lazy to write 👋
+<h3 align="center">👋 Hi there, I'm n_muggle (Nghi)</h3>
 
-<!--
-**gianghitran/gianghitran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.instagram.com/nghi.tgn/">Instagram</a> •
+  <a href="https://www.linkedin.com/in/tran-gia-nghi/">LinkedIn</a> •
+  <a href="@nghitrangia">Telegram</a>
+</p>
 
-Here are some ideas to get you started:
+---
+Honor Program student majoring in Information Security at the University of Information Technology, VNU-HCM. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about Machine Learning applications in Cybersecurity, Machine Learning, Adversarial Machine Learning, Malware Analysis and Digital Forensics. Actively participating in scientific research and community development projects.🔥
+
+---
+
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tran-gia-nghi/) or [email](mailto:nghi.forwork05@gmail.com)  
+- 😄 Pronouns: She/Her  
