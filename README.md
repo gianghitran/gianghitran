@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.instagram.com/nghi.tgn/">Instagram</a> •
   <a href="https://www.linkedin.com/in/tran-gia-nghi/">LinkedIn</a> •
-  <a href="@nghitrangia">Telegram</a>
+  <a href="https://t.me/nghitrangia">Telegram</a>
 </p>
 
 ---
